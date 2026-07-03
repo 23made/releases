@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SpeakerID</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Thu, 02 Jul 2026 23:36:59 -0600</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/23made/releases/releases/download/speakerid-v0.3.0/SpeakerID-0.3.0.zip" length="9234594" type="application/octet-stream" sparkle:edSignature="sAHrcDj4RWSWhRKmvdM+C02JjC746JVPwUDBSejpYtJqd8QJw49nTdVOqV8u7hPsMl4CU+oUL0sR5cYe+gC0Bg=="/>
+        </item>
+    </channel>
+</rss>
