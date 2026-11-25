@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Normux</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 24 Nov 2026 19:21:16 -0700</pubDate>
+            <sparkle:version>128</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/23made/releases/releases/download/normux-v0.1.0-128/Normux-0.1.0-128.zip" length="6434468" type="application/octet-stream" sparkle:edSignature="H6BUSMm7pRih1c6OVT78Zb9rChxI1BzL6J8pVIB1iP6FVBhG91Z3J+9AajRZlHHTn9z0GrSUcIlJsDeR4UxhDw=="/>
+        </item>
+    </channel>
+</rss>
